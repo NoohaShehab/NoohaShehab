@@ -33,25 +33,6 @@ location: [Egypt, Cairo]
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NoohaShehab&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoohaShehab&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180em"/>
-
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=NoohaShehab&theme=tokyonight" height="180em"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoohaShehab&layout=compact&theme=tokyonight&cache_seconds=1800" height="180em"/>
-</p>
-
----
-
 ## 📫 How to Reach Me
 
 <p align="center">
